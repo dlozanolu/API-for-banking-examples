@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.wealthreader.com/api-reference/es/">Documentación</a> ·
   <a href="https://docs-es.wealthreader.com/">Guía del Widget</a> ·
-  <a href="mailto:tech@wealthreader.com">Contacto</a>
+  <a href="mailto:support@wealthreader.com">Contacto</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ La API está pensada para integraciones vía **widget Javascript**, donde las cr
 ## Inicio rápido
 
 ```
-1. Solicita tu api_key  →  tech@wealthreader.com
+1. Solicita tu api_key  →  support@wealthreader.com
 2. Registra tu dominio  →  POST /domains/
 3. Integra el widget    →  docs-es.wealthreader.com
 4. Consulta activos     →  POST /entities/
@@ -152,7 +152,7 @@ API-for-banking-examples/
 |---------|--------|
 | API Reference | https://www.wealthreader.com/api-reference/es/ |
 | Guía del Widget Javascript | https://docs-es.wealthreader.com/ |
-| Contacto técnico | tech@wealthreader.com |
+| Contacto técnico | support@wealthreader.com |
 
 ---
 
